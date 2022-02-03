@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+}
+
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.btn:disabled{
+    color:"green";
+    cursor:not-allowed;
+}
